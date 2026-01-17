@@ -1,0 +1,8 @@
+__pycache__
+.venv
+uv.lock
+*.dat
+*.png
+*.log
+*.pdf
+results/
